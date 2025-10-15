@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>EXAMPLE</title>
+    <link rel="Stylesheet" href="style"
+  </head>
+  <body>
+    <h1>EXAMPLE HTML PAGE</h1>
+    <a href="www.bbc.co.uk">Read the latest news</a>
+    <nav>
+      <a href="one">Page one</a>
+      <a href="two">Page two</a>
+      <a href="three">Page three</a>
+    </nav>
